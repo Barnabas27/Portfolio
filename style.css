@@ -91,7 +91,8 @@ nav ul li a{
     background-color: black;
     color:white;
 }
-.hire-btn:hover{
+.hire-btn:hover,
+.downld-cv:hover{
     background-color:white;
     color:black;
 }
