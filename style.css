@@ -1,0 +1,16 @@
+@font-face{
+    src: url(/fonts/space\ age.ttf);
+    font-family: space;    
+}
+@font-face {
+    src: url(/fonts/RoadTest.ttf);
+    font-family: Rodie;
+}
+body{
+    background-color:f6f5f5;
+    margin:0px;
+    padding:0px;
+}
+ul {
+    list-style: none;
+}
