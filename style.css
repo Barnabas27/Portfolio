@@ -120,10 +120,19 @@ nav ul li a{
 .wrapper {
     position: absolute;
     left:13%;
-    top:42%;
+    top:25%;
     transform:translate(-13%,-42%);
 }
 .wrapper button{
+    width:130px;
+    height: 42px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size:14px;
+    outline:black;
+    margin:0px 10px;
+}
+.contact-me button{
     width:130px;
     height: 42px;
     border-radius: 10px;
@@ -152,6 +161,10 @@ nav ul li a{
     bottom:0px;
     left:65%;
     transform: translateX(-70%);
+    outline:none;
+    border:none;
+    box-shadow: 5px 10px 3px 4px #888888;
+
   
 }
 /* button:active{
@@ -203,17 +216,21 @@ transform:scale(1.1);
     height: 600px;
     background-color: blanchedalmond;
     padding: 2% 10% 0px 10%;
+   
 }
+
 .service-text p:nth-child(1){
     font-weight:bold;
     font-size:30px;
     line-height:0;
+    margin-left:100%;
+    
 }
 .service-text p:nth-child(2){
     font-weight: bold;
     font-size: 15px;
     line-height: 5px;
-    
+   
 }
 /* .services-text p:nth-child(3) usifail kurudi hapa*/
 .service-text {
@@ -381,4 +398,5 @@ footer p:nth-child(2){
 /* color:black; */
     font-size:20px;
 }
-    
+   /*styling hire-me*/
+   
