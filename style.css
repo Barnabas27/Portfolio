@@ -168,9 +168,7 @@ nav ul li a{
     box-shadow: 5px 10px 3px 4px #888888;
     top:180px;
 }
-/* button:active{
-transform:scale(1.1);
-} */
+
 .about {
     width: 80%;
     height: 330px;
@@ -398,4 +396,7 @@ footer p:nth-child(2){
 
     font-size:20px;
 }
-   /*styling hire-me*/
+#submit {
+    background-color: white;
+    color:black;
+}
