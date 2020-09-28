@@ -110,10 +110,11 @@ nav ul li a{
 }
 .wrapper p:nth-child(3){
     font-family: Tahoma, sans-serif;
-    font-size:30px;
+    font-size:normal;
     line-height:30px;
 }
 .wrapper p{
+    top:50px;
     line-height: 0px;
     margin:45px 0px 25px;
 }
@@ -122,8 +123,9 @@ nav ul li a{
     left:13%;
     top:25%;
     transform:translate(-13%,-42%);
+
 }
-.wrapper button{
+.about button{
     width:130px;
     height: 42px;
     border-radius: 10px;
@@ -159,13 +161,12 @@ nav ul li a{
 .Barbez {
     position: absolute;
     bottom:0px;
-    left:65%;
-    transform: translateX(-70%);
+    left:50%;
+    transform: translateX(60%); 
     outline:none;
     border:none;
     box-shadow: 5px 10px 3px 4px #888888;
-
-  
+    top:180px;
 }
 /* button:active{
 transform:scale(1.1);
