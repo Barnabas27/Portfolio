@@ -1,9 +1,9 @@
 @font-face{
-    src: url(/fonts/space\ age.ttf);
+    src: url("./fonts/space\ age.ttf");
     font-family: space;    
 }
 @font-face {
-    src: url(/fonts/RoadTest.ttf);
+    src: url("./fonts/RoadTest.ttf");
     font-family: Rodie;
 }
 /*the following is of the navigation and it's drpdwn*/
