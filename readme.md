@@ -3,6 +3,8 @@
 #### By **Barnabas Kamau**
 ## Description
 This here is my portfolio, outlining my name, my career, my interests, my previous works which are incentives to any of the collaborators and potential employers who wish to source for my services.
+Here is a live link to my porfolio landing page:
+* https://github.com/Barnabas27/portfolio
 ## How to maneuver:
 * Use the navigation bar to be led to different page and sections.
 * Feel free to download cv.
